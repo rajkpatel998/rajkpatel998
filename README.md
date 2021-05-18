@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **rajkpatel998/rajkpatel998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Java, C++, HTML
 - 📫 How to reach me: patelr7@etsu.edu
 - ⚡ Fun fact: I love playing sports, video games and also like watching anime
--->
+
